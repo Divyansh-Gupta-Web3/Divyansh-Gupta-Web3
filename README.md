@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://ipfs.io/ipfs/QmXgwzDYnuahqQAp7cwxmbCX5291r8bHBRctUJhTBb5nV2"  />
+  <img height="150" src="https://ipfs.io/ipfs/QmWBBNXw5nkwbvtxv6sXHFGQ2VjV3dQLeRA9mxuWVftNkL"  />
 </div>
 
 ###
