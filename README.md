@@ -11,7 +11,7 @@
   <a href="https://twitter.com/Divyansh_DevWeb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://www.instagram.com/kampy_div15/" target="_blank">
+  <a href="https://www.instagram.com/kampy_div22/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
@@ -27,13 +27,17 @@
 
 <h1 align="center">hey there 👋</h1>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Divyansh Gupta from Noida, India.<br><br>- 🔭 I’m working as a Blockchain Developer at <B>MCN Solutions Pvt Ltd, Noida India.</b><br>- 📚 I'm currently learning Ethereum, Polygon, Algorand, and Startis.<br>- ⚡ In my free time, I enjoy exploring new technologies and working on blockchain projects.</p>
+<p align="left">I'm Divyansh Gupta from Noida, India.<br><br>- 🔭 I’m working as a Software Developer at <B>MCN Solutions Pvt Ltd, Noida India.</b><br>- 📚 I'm currently working as a Full Satck Developer <br>- ⚡ In my free time, I enjoy exploring new technologies and working on blockchain projects.</p>
 
 
 ###
